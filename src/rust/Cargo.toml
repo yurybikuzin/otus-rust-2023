@@ -2,5 +2,6 @@
 [workspace]
 members = [
     "fizz_buzz",
+    "smart_home",
 ]
 
