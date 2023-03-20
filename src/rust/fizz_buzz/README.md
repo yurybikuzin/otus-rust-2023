@@ -37,6 +37,3 @@
 Работа с архитектурой
 - использование системы сборки и утилит Cargo
 
-## Solution 
-
-[Accepted](https://otus.ru/redirect/?to=https%3A%2F%2Fplay.rust-lang.org%2F%3Fversion%3Dstable%26mode%3Drelease%26edition%3D2021%26gist%3D84623cd100e5fa9480e78c06596b5d51)
