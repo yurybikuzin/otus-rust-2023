@@ -3,5 +3,6 @@
 members = [
     "fizz_buzz",
     "smart_home",
+    "smart_home2",
 ]
 
