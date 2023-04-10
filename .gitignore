@@ -17,3 +17,5 @@ _*
 *.jpg
 *.jpeg
 Cargo.lock
+src/otus-modules-demo
+src/proc-macro-example

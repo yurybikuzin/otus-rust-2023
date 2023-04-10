@@ -27,3 +27,13 @@ cargo clippy --all --all-features --tests -- -D warnings
 ```
 #![allow(clippy::too_many_arguments)] 
 ```
+
+## Sub repos
+
+### src/otus-modules-demo
+
+git@github.com:yurybikuzin/otus-modules-demo.git
+
+### src/proc-macro-example
+
+git@github.com:yurybikuzin/proc-macro-example.git
